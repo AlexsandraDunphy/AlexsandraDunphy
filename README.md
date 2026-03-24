@@ -1,7 +1,7 @@
 # Alexsandra Dunphy 
 
 ## Olá Universo!!!! 👋
-🎯 Analista de Qualidade e Dados  
+🎯 Analista de Suporte 
 💡 Apaixonada por automação, dashboards e melhoria de processos  
 📍 São Paulo, Brasil 
 
